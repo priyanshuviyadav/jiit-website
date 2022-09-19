@@ -3,17 +3,18 @@ import "./Newsletter.css";
 import { Button } from "@mui/material";
 
 const Newsletter = () => {
-  return (
+  return (<>
     <section className="newsletter_section">
       <div className="container">
         <div className="newsletter_wrapper">
-//           <div>
-// //             <img
-// //               className="img-color"
-// //               // src="images/11-bgn-bg.jpg"
-// //               // alt="bg-img"
-// //             />
-//           </div>
+          {/* <div>
+            <img }
+              className="img-color"
+              // src="images/11-bgn-bg.jpg"
+              // alt="bg-img"
+             /
+           </div>  */}
+
           <div className="newesletter_flex">
             <div className="newsletter_info">
               <h2>NEWSLETTER</h2>
@@ -21,16 +22,18 @@ const Newsletter = () => {
                 Subscribe Us to join <br /> Our Community
               </h1>
             </div>
+
             <div className="newsletter_input">
               <input type="text" placeholder="Enter Your Email" required />
               <Button variant="contained">Submit</Button>
             </div>
+</div>
           </div>
         </div>
-      </div>
-          </div>
+      
+         
     </section>
-          
+    </>     
   );
 };
 
