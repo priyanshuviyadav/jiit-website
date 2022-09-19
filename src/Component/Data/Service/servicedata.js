@@ -1,8 +1,8 @@
 import AccountBalanceIcon from "@mui/icons-material/AccountBalance";
-import LandscapeIcon from "@mui/icons-material/Landscape";
-import ApartmentIcon from "@mui/icons-material/Apartment";
-import HomeWorkIcon from "@mui/icons-material/HomeWork";
-import BusinessIcon from "@mui/icons-material/Business";
+// import LandscapeIcon from "@mui/icons-material/Landscape";
+// import ApartmentIcon from "@mui/icons-material/Apartment";
+// import HomeWorkIcon from "@mui/icons-material/HomeWork";
+// import BusinessIcon from "@mui/icons-material/Business";
 
 export const serviced = [
   {
