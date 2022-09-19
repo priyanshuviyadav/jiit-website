@@ -8,11 +8,11 @@ const Newsletter = () => {
       <div className="container">
         <div className="newsletter_wrapper">
           <div>
-            <img
-              className="img-color"
-              // src="images/11-bgn-bg.jpg"
-              // alt="bg-img"
-            />
+//             <img
+//               className="img-color"
+//               // src="images/11-bgn-bg.jpg"
+//               // alt="bg-img"
+//             />
           </div>
           <div className="newesletter_flex">
             <div className="newsletter_info">
